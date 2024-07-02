@@ -1,0 +1,1 @@
+ /Users/juan/Desktop/shoot/.dart_tool/flutter_build/87d9f5171e70b9b7a1e63f2d7ca748a0/native_assets.yaml: 
